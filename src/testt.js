@@ -50,22 +50,22 @@ selectionSort=(arr)=>{
 
 }
 
-performance=()=>{
-const arr = [1,2,3]
-console.time("Time this");
-let sum = 0;
-let res = 0;
-for(let i=0;i<arr.length;i++){
-  sum = sum+arr[i];
-  }
-  for(let i =0;i<arr.length;i++){
-    res += sum-arr[i]
-
-
-}
-console.log(res-sum);
-console.timeEnd("Time this");
-}
+// performance=()=>{
+// const arr = [1,2,3]
+// console.time("Time this");
+// let sum = 0;
+// let res = 0;
+// for(let i=0;i<arr.length;i++){
+//   sum = sum+arr[i];
+//   }
+//   for(let i =0;i<arr.length;i++){
+//     res += sum-arr[i]
+//
+//
+// }
+// console.log(res-sum);
+// console.timeEnd("Time this");
+// }
 
 
   render(){
