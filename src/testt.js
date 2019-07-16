@@ -63,8 +63,7 @@ for(let i=0;i<arr.length;i++){
 
 
 }
-console.log(res-sum);
-console.timeEnd("Time this");
+
 }
 
 
