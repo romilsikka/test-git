@@ -68,6 +68,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 =======
-# GoodworksLabs
-UserInfo
->>>>>>> origin/master
+# test-git
+testing git
+>>>>>>> 98fb62f80fd426ed8a3a549a03925458c8c96ee1
